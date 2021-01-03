@@ -1,0 +1,42 @@
+﻿  LightScene.cpp
+C:\Users\Dracops\Desktop\Github\OpenGLLightScene\OpenGLLightScene\shader_s.h(58,40): warning C4101: 'e': unreferenced local variable
+LightScene.obj : error LNK2019: unresolved external symbol _gladLoadGLLoader referenced in function _main
+LightScene.obj : error LNK2019: unresolved external symbol _glfwInit referenced in function _main
+LightScene.obj : error LNK2019: unresolved external symbol _glfwTerminate referenced in function _main
+LightScene.obj : error LNK2019: unresolved external symbol _glfwWindowHint referenced in function _main
+LightScene.obj : error LNK2019: unresolved external symbol _glfwCreateWindow referenced in function _main
+LightScene.obj : error LNK2019: unresolved external symbol _glfwWindowShouldClose referenced in function _main
+LightScene.obj : error LNK2019: unresolved external symbol _glfwSetWindowShouldClose referenced in function "void __cdecl processInput(struct GLFWwindow *)" (?processInput@@YAXPAUGLFWwindow@@@Z)
+LightScene.obj : error LNK2019: unresolved external symbol _glfwSetFramebufferSizeCallback referenced in function _main
+LightScene.obj : error LNK2019: unresolved external symbol _glfwPollEvents referenced in function _main
+LightScene.obj : error LNK2019: unresolved external symbol _glfwGetKey referenced in function "void __cdecl processInput(struct GLFWwindow *)" (?processInput@@YAXPAUGLFWwindow@@@Z)
+LightScene.obj : error LNK2019: unresolved external symbol _glfwMakeContextCurrent referenced in function _main
+LightScene.obj : error LNK2019: unresolved external symbol _glfwSwapBuffers referenced in function _main
+LightScene.obj : error LNK2019: unresolved external symbol _glfwGetProcAddress referenced in function _main
+LightScene.obj : error LNK2001: unresolved external symbol _glad_glClear
+LightScene.obj : error LNK2001: unresolved external symbol _glad_glClearColor
+LightScene.obj : error LNK2001: unresolved external symbol _glad_glViewport
+LightScene.obj : error LNK2001: unresolved external symbol _glad_glDrawArrays
+LightScene.obj : error LNK2001: unresolved external symbol _glad_glBindBuffer
+LightScene.obj : error LNK2001: unresolved external symbol _glad_glDeleteBuffers
+LightScene.obj : error LNK2001: unresolved external symbol _glad_glGenBuffers
+LightScene.obj : error LNK2001: unresolved external symbol _glad_glBufferData
+LightScene.obj : error LNK2001: unresolved external symbol _glad_glAttachShader
+LightScene.obj : error LNK2001: unresolved external symbol _glad_glCompileShader
+LightScene.obj : error LNK2001: unresolved external symbol _glad_glCreateProgram
+LightScene.obj : error LNK2001: unresolved external symbol _glad_glCreateShader
+LightScene.obj : error LNK2001: unresolved external symbol _glad_glDeleteShader
+LightScene.obj : error LNK2001: unresolved external symbol _glad_glEnableVertexAttribArray
+LightScene.obj : error LNK2001: unresolved external symbol _glad_glGetProgramiv
+LightScene.obj : error LNK2001: unresolved external symbol _glad_glGetProgramInfoLog
+LightScene.obj : error LNK2001: unresolved external symbol _glad_glGetShaderiv
+LightScene.obj : error LNK2001: unresolved external symbol _glad_glGetShaderInfoLog
+LightScene.obj : error LNK2001: unresolved external symbol _glad_glLinkProgram
+LightScene.obj : error LNK2001: unresolved external symbol _glad_glShaderSource
+LightScene.obj : error LNK2001: unresolved external symbol _glad_glUseProgram
+LightScene.obj : error LNK2001: unresolved external symbol _glad_glVertexAttribPointer
+LightScene.obj : error LNK2001: unresolved external symbol _glad_glBindVertexArray
+LightScene.obj : error LNK2001: unresolved external symbol _glad_glDeleteVertexArrays
+LightScene.obj : error LNK2001: unresolved external symbol _glad_glGenVertexArrays
+C:\Users\Dracops\Documents\Visual Studio 2019\Libraries\glfw-3.3.2.bin.WIN64\lib-vc2015\glfw3.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\Dracops\Desktop\Github\OpenGLLightScene\Debug\OpenGLLightScene.exe : fatal error LNK1120: 38 unresolved externals
